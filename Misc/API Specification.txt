@@ -57,6 +57,11 @@ GET /boards/{boardId}
         401 Token expired
 
 
+Get bot name
+=======================
+Skicka in bottoken och returnera botname
+
+
 Get global highscore list
 ==================
 GET /highscore
